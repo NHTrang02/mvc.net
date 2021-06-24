@@ -1,0 +1,38 @@
+D:\nashtech\New folder (3)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\nashtech\New folder (3)\bin\Debug\netcoreapp3.1\appsettings.json
+D:\nashtech\New folder (3)\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\nashtech\New folder (3)\bin\Debug\netcoreapp3.1\New folder (3).exe
+D:\nashtech\New folder (3)\bin\Debug\netcoreapp3.1\New folder (3).deps.json
+D:\nashtech\New folder (3)\bin\Debug\netcoreapp3.1\New folder (3).runtimeconfig.json
+D:\nashtech\New folder (3)\bin\Debug\netcoreapp3.1\New folder (3).runtimeconfig.dev.json
+D:\nashtech\New folder (3)\bin\Debug\netcoreapp3.1\New folder (3).dll
+D:\nashtech\New folder (3)\bin\Debug\netcoreapp3.1\New folder (3).pdb
+D:\nashtech\New folder (3)\bin\Debug\netcoreapp3.1\New folder (3).Views.dll
+D:\nashtech\New folder (3)\bin\Debug\netcoreapp3.1\New folder (3).Views.pdb
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).csprojAssemblyReference.cache
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).AssemblyInfoInputs.cache
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).AssemblyInfo.cs
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).csproj.CoreCompileInputs.cache
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).MvcApplicationPartsAssemblyInfo.cache
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).RazorAssemblyInfo.cache
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).RazorAssemblyInfo.cs
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).TagHelpers.input.cache
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).TagHelpers.output.cache
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).RazorCoreGenerate.cache
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).RazorTargetAssemblyInfo.cache
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).RazorTargetAssemblyInfo.cs
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).Views.pdb
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\staticwebassets\New folder (3).StaticWebAssets.Manifest.cache
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\staticwebassets\New folder (3).StaticWebAssets.xml
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).dll
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).pdb
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).genruntimeconfig.cache
+D:\nashtech\New folder (3)\obj\Debug\netcoreapp3.1\New folder (3).csproj.CopyComplete
+D:\nashtech\New folder (3)\bin\Debug\netcoreapp3.1\CsvHelper.dll
